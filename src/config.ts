@@ -62,12 +62,12 @@ export const profileConfig: ProfileConfig = {
 	name: "Eternal Future",
 	bio: "求めていた幸せは手に入らないまま終わるのかな…",
 	links: [
-		//{
-		//	name: "QQ",
-		//	icon: "fa6-brands:twitter", // Visit https://icones.js.org/ for icon codes
+		{
+			name: "邮箱",
+			icon: "material-symbols:mail", // Visit https://icones.js.org/ for icon codes
 			// You will need to install the corresponding icon set if it's not already included
 			// `pnpm add @iconify-json/<icon-set-name>`
-		//	url: "https://twitter.com",
+			url: "mailto:Eternal_Future@outlook.com",
 		//},
 		//{
 		//	name: "Steam",
@@ -78,7 +78,7 @@ export const profileConfig: ProfileConfig = {
 		//	name: "GitHub",
 		//	icon: "fa6-brands:github",
 		//	url: "https://github.com/saicaca/fuwari",
-		//},
+		},
 	],
 };
 
