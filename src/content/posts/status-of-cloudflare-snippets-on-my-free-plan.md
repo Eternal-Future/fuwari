@@ -26,7 +26,7 @@ lang: ''
 ![](https://static.efur.top/img/005a6867ec7acd8d888cafd296e95968.png)
 
 刚好我手里有一些域名，来分享一下我的Cloudflare Snippets的开通情况\
-（通常情况下，这些域名都是我买来就托管到Cloudflare了）
+（通常情况下，这些域名都是我取得时就托管到Cloudflare了）
 ## 一级域名
 |域名|Snippets|注册时间|
 |:-:|:-:|:-:|
