@@ -1,5 +1,5 @@
 ---
-title: 突破2年限制，让OneDrive挂载OpenList不再轮换密钥
+title: 突破2年限制，让OneDrive挂载到OpenList不再轮换密钥
 published: 2026-05-19
 description: ''
 image: ''
