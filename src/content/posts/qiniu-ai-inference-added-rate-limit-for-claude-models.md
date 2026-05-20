@@ -5,7 +5,7 @@ description: ''
 image: ''
 tags: [AI,API]
 category: '技术'
-draft: false 
+draft: true 
 lang: ''
 ---
 之前七牛云推理有一个拉新活动，可以白嫖Token
@@ -15,7 +15,7 @@ lang: ''
 并且是基于账号(UID)的每日Token限制(TPD)
 ![](https://bucket.002397.xyz/2026/05/53fb3bd94252e45e6e90c5c54b3d525f.jpg)
 
-经后台查看数据，限制在 300k~400k Token间
+经后台查看数据，限制在 300k~400k Token间 (输入)
 ![](https://bucket.002397.xyz/2026/05/c53c03006a94de6e94261d9442f3b45e.jpg)
 
 之前是不限量调用，但现在限制这么死似乎也不能玩多少了
