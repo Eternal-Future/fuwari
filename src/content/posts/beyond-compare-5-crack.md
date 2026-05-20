@@ -9,14 +9,14 @@ draft: false
 lang: ''
 ---
 :::note
-此教程是根据[这个消息](https://t.me/macked_channel/48)而写的
+此教程是根据[这个消息](https://t.me/macked_channel/48)而写的\
 `并非本人原创`，本人只是把完整操作重复了一遍做成手把手教程
 :::
 
 Beyond Compare 是一个极其实用的文件比对软件
 ![](https://static.efur.top/img/2026/05/a27122eadc43e286605ada42c52d67a8.png)
 
-那我们该怎么进行破解呢？不妨试试用它自己来修改自己
+那我们该怎么进行破解呢？不妨试试用它自己来修改自己\
 首先我们在官网下载[Beyond Compare 5 官方版](https://www.scootersoftware.com/download)（截止本文发布，最新版本为5.2.1）
 ![](https://static.efur.top/img/2026/05/21ad66c5263313e87ef3756ae402e294.png)
 
@@ -78,7 +78,7 @@ iGQSeGUAASryXZjquSYz6FNpxJenbF9rAZ7WMaSBk1RkRsLkYh
 ![](https://static.efur.top/img/2026/05/aa955a2e138eb0290dc93507caf7b3b1.png)
 
 :::note
-已知简体中文、英语的版本均可用此教程
-若无法下载到官方程序，这里有备份一份
+已知简体中文、英语的版本均可用此教程\
+若无法下载到官方程序，这里有备份一份\
 [5.2.1 法语 Windows](https://res.efur.top/d/Guest/Beyond%20Compare%20Official/BCompare-fr-5.2.1.32035.exe) | [5.2.1 日语 Windows](https://res.efur.top/d/Guest/Beyond%20Compare%20Official/BCompare-jp-5.2.1.32035.exe) | [5.2.1 简体中文 Windows](https://res.efur.top/d/Guest/Beyond%20Compare%20Official/BCompare-zh-5.2.1.32035.exe) | [5.2.1 英语 Windows](https://res.efur.top/d/Guest/Beyond%20Compare%20Official/BCompare-5.2.1.32035.exe) | [5.2.1 德语 Windows](https://res.efur.top/d/Guest/Beyond%20Compare%20Official/BCompare-de-5.2.1.32035.exe) | [5.2.1 Linux RPM](https://res.efur.top/d/Guest/Beyond%20Compare%20Official/bcompare-5.2.1.32035.x86_64.rpm) | [5.2.1 Linux DEB](https://res.efur.top/d/Guest/Beyond%20Compare%20Official/bcompare-5.2.1.32035_amd64.deb)
 :::
