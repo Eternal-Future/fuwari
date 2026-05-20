@@ -67,7 +67,7 @@ export const profileConfig: ProfileConfig = {
 			icon: "material-symbols:mail", // Visit https://icones.js.org/ for icon codes
 			// You will need to install the corresponding icon set if it's not already included
 			// `pnpm add @iconify-json/<icon-set-name>`
-			url: "mailto:Eternal_Future@outlook.com",
+			url: "mailto:6676@live.cn",
 		//},
 		//{
 		//	name: "Steam",
