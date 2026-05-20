@@ -55,7 +55,7 @@ oQmLWQCi9MaOxVy8P7sbCp0wEf5y8iyQTq+dKGEwbCWU5NdUo6zmOttrLH1IfqWaOqKhBz9qT4e6yY7n
 
 按下Ctrl+S保存
 
-随后将已经修好好的副本替换原版程序
+随后将已经修改好的副本替换原版程序
 ![](https://static.efur.top/img/2026/05/46726c5c28b07712f8366c2972ab58bc.png)
 
 再次打开Beyond Compare 会出现这个窗口
