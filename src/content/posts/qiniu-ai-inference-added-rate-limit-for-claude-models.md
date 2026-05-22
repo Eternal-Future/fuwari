@@ -5,7 +5,7 @@ description: ''
 image: ''
 tags: [AI,API]
 category: '技术'
-draft: true 
+draft: true
 lang: ''
 ---
 之前七牛云推理有一个拉新活动，可以白嫖Token
