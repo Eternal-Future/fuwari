@@ -9,6 +9,8 @@
 | 性别 | 男 |
 | 身高 / 体重 | 164cm / 57kg |
 
+不懂代码只会vibe coding
+[![Tokscale Stats](https://tokscale.ai/api/embed/Eternal-Future/svg?template=blueprint&rank=total&tokens=full&cost=full)](https://tokscale.ai/u/Eternal-Future)
 
 ### 2. 性格
 
